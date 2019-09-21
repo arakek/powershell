@@ -1,3 +1,3 @@
 # powershell
 
-script.ps1 - rename all file's extension in current directory
+script.ps1 - rename all files extension in current directory
